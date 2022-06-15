@@ -6,7 +6,7 @@ This project consist of three separate technologies combined into a single andro
 
 - ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://github.com/linothomas14/price-optimizer-api)
 - ### [&nbsp;&nbsp;Cloud Computing &rarr;](https://github.com/linothomas14/price-optimizer-api)
-- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/linothomas14/price-optimizer-api)
+- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/farrelarrizal/ML-PO04)
 
 ## Members
 |No.| ID        |NAME           | University |

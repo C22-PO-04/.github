@@ -4,9 +4,9 @@ A brief description of what this project does and who it's for
 ## Documentation
 This project consist of three separate technologies combined into a single android application.
 
-- ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://github.com/linothomas14/price-optimizer-api)
-- ### [&nbsp;&nbsp;Cloud Computing &rarr;](https://github.com/linothomas14/price-optimizer-api)
-- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/farrelarrizal/ML-PO04)
+- ### [&nbsp;&nbsp;Android Mobile Development &rarr;](https://github.com/C22-PO-04/Android-Development)
+- ### [&nbsp;&nbsp;Cloud Computing &rarr;](https://github.com/C22-PO-04/price-optimizer-api)
+- ### [&nbsp;&nbsp;Machine Learning &rarr;](https://github.com/C22-PO-04/Machine-Learning-Preparation)
 
 ## Members
 |No.| ID        |NAME           | University |
